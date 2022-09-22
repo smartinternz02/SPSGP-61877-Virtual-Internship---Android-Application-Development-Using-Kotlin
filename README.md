@@ -12,4 +12,4 @@ HOW TO USE ?
 
 2. Tap on + (plus) button to add items.
 
-![1](https://user-images.githubusercontent.com/82459706/191721574-c19b50f9-982d-4f91-aaca-a16c22838d89.png)
+![1](https://user-images.githubusercontent.com/82459706/191721574-c19b50f9-982d-4f91-aaca-a16c22838d89.png | width=100)
