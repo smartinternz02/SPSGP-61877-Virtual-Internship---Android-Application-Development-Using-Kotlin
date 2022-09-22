@@ -14,4 +14,15 @@ HOW TO USE ?
 
 <img src="https://user-images.githubusercontent.com/82459706/191721574-c19b50f9-982d-4f91-aaca-a16c22838d89.png" width="250">
 
+3. Enter the details of items...
+4. And tap "Add"
 
+<img src="https://user-images.githubusercontent.com/82459706/191723402-64b8ce7b-c8df-4018-a968-0ccfbb3b25ce.png" width="250">
+
+5. Now you can check the items you'd added.
+
+<img src="https://user-images.githubusercontent.com/82459706/191723827-ab0f5155-cce2-4a18-98cd-e9199d8e9b60.png" width="250">
+
+6. Once you no longer needs the items list, you can delete any item by taping on delete button (the bin icon).
+
+<img src="https://user-images.githubusercontent.com/82459706/191723850-9793afcc-bc42-43a0-a129-aec4ee5580ad.png" width="250">
