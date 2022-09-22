@@ -5,7 +5,7 @@ Virtual Internship - Android Application Development Using Kotlin
 
 Grocery App in Kotlin.
 
-Project Report : https://drive.google.com/file/d/1HATmBODTLN3b6dCInNXQohmL9i4bUsrz/view?usp=sharing
+Project Report : https://docs.google.com/document/d/1L-MFrXYoHxGvvCt80TLb0LbCYy_z1rM_H9xggzwy8J4/edit?usp=sharing
 
 APK Link : https://drive.google.com/file/d/1OpXCgCnqIk7JxZRiOky9g4JJheLoiNP-/view?usp=sharing
 
