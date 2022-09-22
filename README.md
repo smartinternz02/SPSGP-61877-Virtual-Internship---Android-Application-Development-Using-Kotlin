@@ -5,6 +5,12 @@ Virtual Internship - Android Application Development Using Kotlin
 
 Grocery App in Kotlin.
 
+Project Report : https://drive.google.com/file/d/1HATmBODTLN3b6dCInNXQohmL9i4bUsrz/view?usp=sharing
+
+APK Link : https://drive.google.com/file/d/1OpXCgCnqIk7JxZRiOky9g4JJheLoiNP-/view?usp=sharing
+
+Demo Link : https://drive.google.com/file/d/1swrt42_kYuIk9Q6vxdEye6UTv5Vd00s-/view?usp=sharing
+
 You can make add items you have to shop and remember at the time of shopping in the form of lists (stores it in Database).
 This app will also calculate total amount for the products on the basis of quantity you have to buy.
 
