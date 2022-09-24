@@ -9,6 +9,8 @@ APK Link : https://drive.google.com/file/d/1OpXCgCnqIk7JxZRiOky9g4JJheLoiNP-/vie
 
 Demo Link : https://drive.google.com/file/d/1ZIgHefGnF64_4Qceum5Tm3Hzk5LFSsRB/view?usp=sharing
 
+Report Link : https://drive.google.com/file/d/13qoUKDiJAsnZ5xhL9-pWXU13bsBVQJKh/view?usp=sharing
+
 You can make add items you have to shop and remember at the time of shopping in the form of lists (stores it in Database).
 This app will also calculate total amount for the products on the basis of quantity you have to buy.
 
